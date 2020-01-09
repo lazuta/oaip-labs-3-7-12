@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab5/Shipyard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6/Shipyard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Shipyard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -30,6 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Lab7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dimidow\src\Lab7" />
+      <recent name="C:\Dimidow\src\Lab6" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -72,10 +88,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578606684799" />
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578606349413">
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578607155072">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578606349413" />
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578607155072" />
     <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578606683293">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
