@@ -1,73 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="" />
+    <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5/Shipyard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WAtnAgSTYH1IOdvZZq4883dGit" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lab5.Main" />
       <module name="Dimidow" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -99,5 +66,39 @@
       <updated>1578604392076</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578606684799">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578606684799" />
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578606349413">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578606349413" />
+    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578606683293">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578606683293" />
+    <state width="1315" height="295" key="GridCell.Tab.0.bottom" timestamp="1578606735563">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1315" height="295" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
+    <state width="1315" height="295" key="GridCell.Tab.0.center" timestamp="1578606735563">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1315" height="295" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
+    <state width="1315" height="295" key="GridCell.Tab.0.left" timestamp="1578606735563">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1315" height="295" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
+    <state width="1315" height="295" key="GridCell.Tab.0.right" timestamp="1578606735563">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1315" height="295" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
+    <state x="1742" y="255" key="RollbackChangesDialog" timestamp="1578605803315">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1742" y="255" key="RollbackChangesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578605803315" />
   </component>
 </project>
