@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Shipyard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Shipyard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Rate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +48,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Lab5.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lab8.Task2.Main" />
       <module name="Dimidow" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -84,37 +83,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578606684799">
+    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578741249690">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578606684799" />
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578607155072">
+    <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578741249690" />
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578742709792">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578607155072" />
-    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578606683293">
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578742709792" />
+    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578741248492">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578606683293" />
-    <state width="1315" height="295" key="GridCell.Tab.0.bottom" timestamp="1578606735563">
+    <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578741248492" />
+    <state width="1315" height="292" key="GridCell.Tab.0.bottom" timestamp="1578743176822">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="295" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
-    <state width="1315" height="295" key="GridCell.Tab.0.center" timestamp="1578606735563">
+    <state width="1315" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
+    <state width="1315" height="292" key="GridCell.Tab.0.center" timestamp="1578743176822">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="295" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
-    <state width="1315" height="295" key="GridCell.Tab.0.left" timestamp="1578606735563">
+    <state width="1315" height="292" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
+    <state width="1315" height="292" key="GridCell.Tab.0.left" timestamp="1578743176822">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="295" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
-    <state width="1315" height="295" key="GridCell.Tab.0.right" timestamp="1578606735563">
+    <state width="1315" height="292" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
+    <state width="1315" height="292" key="GridCell.Tab.0.right" timestamp="1578743176822">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="295" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578606735563" />
-    <state x="1742" y="255" key="RollbackChangesDialog" timestamp="1578605803315">
+    <state width="1315" height="292" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
+    <state x="1742" y="255" key="RollbackChangesDialog" timestamp="1578738981982">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1742" y="255" key="RollbackChangesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578605803315" />
+    <state x="1742" y="255" key="RollbackChangesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578738981982" />
+    <state x="1576" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1578735475929">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1576" y="365" key="com.intellij.ide.util.TipDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578735475929" />
   </component>
 </project>
