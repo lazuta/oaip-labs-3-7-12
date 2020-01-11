@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Place.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab9/Shipyard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task1/Encyclopedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task1/Guide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task1/Publication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/IBuildInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab10/Task2/Shipyard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +40,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab9" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab11" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Lab7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dimidow\src\Lab10\Task2" />
+      <recent name="C:\Dimidow\src\Lab10\Task1" />
       <recent name="C:\Dimidow\src\Lab9" />
       <recent name="C:\Dimidow\src\Lab 9" />
       <recent name="C:\Dimidow\src\Lab7" />
-      <recent name="C:\Dimidow\src\Lab6" />
     </key>
   </component>
   <component name="RunManager">
