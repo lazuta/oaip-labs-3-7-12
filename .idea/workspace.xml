@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b960ec3b-f91a-40cf-9cbc-afbb9b7b5604" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Communication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab8/Task2/Rate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9/Shipyard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +33,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab9" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Lab7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dimidow\src\Lab9" />
+      <recent name="C:\Dimidow\src\Lab 9" />
       <recent name="C:\Dimidow\src\Lab7" />
       <recent name="C:\Dimidow\src\Lab6" />
     </key>
@@ -87,30 +87,34 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1333" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578741249690" />
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578742709792">
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1578743601900">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578742709792" />
+    <state x="1684" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578743601900" />
     <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578741248492">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1608" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578741248492" />
-    <state width="1315" height="292" key="GridCell.Tab.0.bottom" timestamp="1578743176822">
+    <state x="1609" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578743295072">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
-    <state width="1315" height="292" key="GridCell.Tab.0.center" timestamp="1578743176822">
+    <state x="1609" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1578743295072" />
+    <state width="1315" height="292" key="GridCell.Tab.0.bottom" timestamp="1578743214870">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="292" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
-    <state width="1315" height="292" key="GridCell.Tab.0.left" timestamp="1578743176822">
+    <state width="1315" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578743214870" />
+    <state width="1315" height="292" key="GridCell.Tab.0.center" timestamp="1578743214870">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="292" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
-    <state width="1315" height="292" key="GridCell.Tab.0.right" timestamp="1578743176822">
+    <state width="1315" height="292" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578743214870" />
+    <state width="1315" height="292" key="GridCell.Tab.0.left" timestamp="1578743214870">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state width="1315" height="292" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578743176822" />
+    <state width="1315" height="292" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578743214870" />
+    <state width="1315" height="292" key="GridCell.Tab.0.right" timestamp="1578743214870">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1315" height="292" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578743214870" />
     <state x="1742" y="255" key="RollbackChangesDialog" timestamp="1578738981982">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
